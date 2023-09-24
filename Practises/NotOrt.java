@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MyClass {
+public class NotOrt {
     public static void main(String args[]) {
       //Değişkenlerimizi oluşturduk.
       int mat, fizik, kimya, turkce, tarih, muzik;
