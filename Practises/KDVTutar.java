@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MyClass {
+public class KDVTutar {
     public static void main(String args[]) {
       //Değişkenlerimizi oluşturduk.
       double tutar, kdvOran, kdvTutar, kdvliTutar;
