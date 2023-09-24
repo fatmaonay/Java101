@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyClass {
+public class KuvvetBulma {
     public static void main(String args[]) {
       int n;
       Scanner inp = new Scanner(System.in);
