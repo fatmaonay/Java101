@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyClass {
+public class ZodiacSign {
     public static void main(String args[]) {
       int month, day;
       
