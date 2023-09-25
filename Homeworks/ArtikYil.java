@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyClass {
+public class ArtikYil {
     public static void main(String args[]) {
       int year;
       Scanner inp = new Scanner(System.in);
